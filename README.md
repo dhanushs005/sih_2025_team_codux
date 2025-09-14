@@ -33,5 +33,5 @@ This project consists of:
                             Supabase (Realtime)
 
 ```
-### DriverApp Releases: https://github.com/dhanushs005/sih_2025_team_codux/releases/tag/v1.0.0
-### PassengerApp url: https://selvarajdhanush-ai.github.io/Test/
+#### DriverApp Releases: https://github.com/dhanushs005/sih_2025_team_codux/releases/tag/v1.0.0
+#### PassengerApp url: https://selvarajdhanush108-ai.github.io/Test/
